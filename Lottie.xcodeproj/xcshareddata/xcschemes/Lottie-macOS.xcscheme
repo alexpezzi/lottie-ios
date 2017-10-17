@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FAE1F79C1E428CBE002E0974"
                BuildableName = "Lottie.framework"
-               BlueprintName = "Lottie_macOS"
+               BlueprintName = "Lottie-macOS"
                ReferencedContainer = "container:Lottie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -36,6 +37,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -47,7 +49,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FAE1F79C1E428CBE002E0974"
             BuildableName = "Lottie.framework"
-            BlueprintName = "Lottie_macOS"
+            BlueprintName = "Lottie-macOS"
             ReferencedContainer = "container:Lottie.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,7 +67,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FAE1F79C1E428CBE002E0974"
             BuildableName = "Lottie.framework"
-            BlueprintName = "Lottie_macOS"
+            BlueprintName = "Lottie-macOS"
             ReferencedContainer = "container:Lottie.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
